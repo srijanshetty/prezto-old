@@ -37,7 +37,8 @@ zstyle ':prezto:load' pmodule \
   'history-substring-search'\
   'prompt' \
   'tmux' \
-  'dwim'
+  'dwim' \
+  'autoenv'
 
 #
 # Editor

@@ -19,3 +19,6 @@
 [submodule "modules/dwim"]
 	path = modules/dwim
 	url = https://github.com/oknowton/zsh-dwim.git
+[submodule "modules/autoenv"]
+	path = modules/autoenv
+	url = https://github.com/Tarrasch/zsh-autoenv.git
