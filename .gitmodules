@@ -22,3 +22,6 @@
 [submodule "modules/autoenv"]
 	path = modules/autoenv
 	url = https://github.com/Tarrasch/zsh-autoenv.git
+[submodule "modules/custom"]
+	path = modules/custom
+	url = https://github.com/srijanshetty/custom.git
