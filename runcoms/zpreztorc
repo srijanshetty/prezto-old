@@ -38,7 +38,11 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'tmux' \
   'dwim' \
-  'autoenv'
+  'autoenv' \
+  'custom' \
+  'python' \
+  'ruby'
+
 
 #
 # Editor
