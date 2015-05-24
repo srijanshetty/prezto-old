@@ -51,3 +51,5 @@ function fasd_cd {
 
 # Changes the current working directory interactively.
 alias j='fasd_cd -i'
+alias v='f -e vim' # quick opening files with vim
+alias op='a -e xdg-open' # quick opening files with xdg-open
