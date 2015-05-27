@@ -41,9 +41,10 @@ zstyle ':prezto:load' pmodule \
   'dwim' \
   'autoenv' \
   'custom' \
+  'haskell' \
   'python' \
+  'node' \
   'ruby'
-
 
 #
 # Editor
