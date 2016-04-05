@@ -36,7 +36,6 @@ zstyle ':prezto:load' pmodule \
   'syntax-highlighting'\
   'history-substring-search'\
   'prompt' \
-  'fasd' \
   'tmux' \
   'dwim' \
   'git' \
@@ -45,7 +44,8 @@ zstyle ':prezto:load' pmodule \
   'haskell' \
   'python' \
   'node' \
-  'ruby'
+  'ruby' \
+  'fasd'
 
 #
 # Editor
