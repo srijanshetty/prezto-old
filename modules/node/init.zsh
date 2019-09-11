@@ -29,8 +29,8 @@ elif (( $+commands[brew] )) && \
   unset nvm_prefix
 
 # Load manually installed nodenv into the shell session.
-elif [[ -s "$HOME/.nodenv/bin/nodenv" ]]; then
-  path=("$HOME/.nodenv/bin" $path)
+elif [[ -s "${NODENV_ROOT:=$HOME/.nodenv}/bin/nodenv" ]]; then
+  path=("${NODENV_ROOT}/bin" $path)
   eval "$(nodenv init - --no-rehash zsh)"
 
 # Load package manager installed nodenv into the shell session.
