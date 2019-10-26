@@ -42,13 +42,13 @@ zstyle ':prezto:load' pmodule \
   'tmux' \
   'dwim' \
   'git' \
-  'autoenv' \
   'custom' \
   'haskell' \
   'python' \
   'ruby' \
   'node' \
-  'fasd'
+  'fasd' \
+  'autoenv'
 
 # node
 
