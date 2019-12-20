@@ -45,7 +45,6 @@ zstyle ':prezto:load' pmodule \
   'custom' \
   'haskell' \
   'python' \
-  'ruby' \
   'node' \
   'fasd' \
   'autoenv'
